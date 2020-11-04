@@ -10,7 +10,7 @@
 
 Online supplementary materials of the paper titled 
 
-**Robust State Estimation for Linear Systems underDistributional Uncertainty**
+**Robust State Estimation for Linear Systems under Distributional Uncertainty**
 
 By Shixiong Wang, Zhongming Wu, and Andrew Lim
 
