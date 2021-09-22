@@ -22,22 +22,22 @@ By Shixiong Wang, Zhongming Wu, and Andrew Lim
 From the Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
 and the School of Management Science and Engineering, Nanjing University of Information Science and Technology (Z. Wu).
 
-*** [1] Data***
+***[1] Data***
 
 * This folder contains the raw data to reproduce Figures and Tables.
 
-*** [2] Source Codes***
+***[2] Source Codes***
 
 * The folder "[1] Main" contains the codes to generate Figures 1-3 and Tables 1-5 in the main body of the paper.
 
-- The folder "[1] Source Code - True Structure" contains the codes to generate Figure 1 and Tables 1-4.
+    - The folder "[1] Source Code - True Structure" contains the codes to generate Figure 1 and Tables 1-4.
 
-- The folder "[2] Source Code - Fake Structure" contains the codes to generate Figure 2 and Tables 5.
+    - The folder "[2] Source Code - Fake Structure" contains the codes to generate Figure 2 and Tables 5.
 
-- The folder "[3] Source Code - Gamma_2" contains the codes to generate Figure 3.
+    - The folder "[3] Source Code - Gamma_2" contains the codes to generate Figure 3.
 
 * The folder "[2] Supplementary" contains the codes to generate Figures 1, 2 in the oneline supplementary materials.
 
-- The folder "[1] Source Code - Uncertainty - 4)" contains the codes to generate Figure 1.
+    - The folder "[1] Source Code - Uncertainty - 4)" contains the codes to generate Figure 1.
 
-- The folder "[2] Source Code - Uncertainty - 5)" contains the codes to generate Figure 2.
+    - The folder "[2] Source Code - Uncertainty - 5)" contains the codes to generate Figure 2.
