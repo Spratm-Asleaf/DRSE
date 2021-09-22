@@ -39,7 +39,7 @@ and the School of Management Science and Engineering, Nanjing University of Info
 
 ***Warranty***
 
-* Files/codes here are allowed to be edited, distributed, and re-used for any academic/teaching purpose without any warranty. However, you are strongly suggested sharing your codes with publics if you are planning to use codes here. Let's work together to guarantee the reproducibilty of experiments and the verifiability of claims in publications. We believe that this is meaningful to facilitate future research of the signal processing community.
+Files/codes here are allowed to be edited, distributed, and re-used for any academic/teaching purpose without any warranty. However, you are strongly suggested sharing your codes with publics if you are planning to use codes here. Let's work together to guarantee the reproducibilty of experiments and the verifiability of claims in publications. We believe that this is meaningful to facilitate future research of the signal processing community.
 
 ***Disclaimer***
 
