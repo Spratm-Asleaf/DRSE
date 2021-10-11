@@ -12,6 +12,8 @@ Online supplementary materials of the paper titled
 
 **Robust State Estimation for Linear Systems Under Distributional Uncertainty**
 
+Published in the _IEEE Transactions on Signal Processing_ [DOI: 10.1109/TSP.2021.3118540](https://ieeexplore.ieee.org/document/9563203)
+
 By Shixiong Wang, Zhongming Wu, and Andrew Lim
 
 From the Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
