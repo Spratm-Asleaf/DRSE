@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Robust State Estimation for Linear Systems Under Distributional Uncertainty**
 
-Published in the _IEEE Transactions on Signal Processing_ ([DOI: 10.1109/TSP.2021.3118540](https://ieeexplore.ieee.org/document/9563203))
+Published in the _IEEE Transactions on Signal Processing_ (DOI: [10.1109/TSP.2021.3118540](https://ieeexplore.ieee.org/document/9563203))
 
 By Shixiong Wang, Zhongming Wu, and Andrew Lim
 
@@ -38,6 +38,9 @@ and the School of Management Science and Engineering, Nanjing University of Info
     - The folder "[1] Source Code - Uncertainty - 4)" contains the codes to generate Figure 1.
 
     - The folder "[2] Source Code - Uncertainty - 5)" contains the codes to generate Figure 2.
+
+***See Also***
+[Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier](https://github.com/Spratm-Asleaf/DRSE-Outlier)
 
 ***Warranty***
 
